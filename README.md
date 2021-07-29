@@ -2,9 +2,9 @@
 <p align="center">
 <p align="center">
 <a href="https://www.ryanbasque.com"><img src="https://img.shields.io/badge/-ryanbasque.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ryan-basque-1688761b0/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ryanbasquedev@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/wigbas"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ryan-basque-1688761b0/"><img src="https://img.shields.io/badge/-Ryan%20Ladevig%20Basque-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ryanbasquedev@gmail.com"><img src="https://img.shields.io/badge/-ryanbasquedev.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/wigbas"><img src="https://img.shields.io/badge/-@wigbas-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
