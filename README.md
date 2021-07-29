@@ -53,7 +53,7 @@
 
 <p align="center"> 
   Contador de visitantes :D<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/RyanBasque/count.svg" />
 </p>
 
 <p align="center">
