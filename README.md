@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.ryanbasque.com"><img src="https://img.shields.io/badge/-ryanbasque.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ryan-basque-1688761b0/"><img src="https://img.shields.io/badge/-Ryan%20Ladevig%20Basque-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ryanbasquedev@gmail.com"><img src="https://img.shields.io/badge/-ryanbasquedev.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:ryanbasquedev@gmail.com"><img src="https://img.shields.io/badge/-ryanbasquedev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/wigbas"><img src="https://img.shields.io/badge/-@wigbas-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
@@ -26,8 +26,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBasque&layout=compact&theme=dark" alt="top-langs" />
 </p>
-
-*NOTA: 'A maioria das linguagens usadas não indica meu nível de habilidade ou algo parecido, é uma métrica do github de quais linguagens eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <br>
 
