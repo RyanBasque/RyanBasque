@@ -1,4 +1,4 @@
-<h2 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, <br/> meu nome é <a href="https://github.com/RyanBasque">Ryan Basque!</a></h2>
+<h2 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br/> meu nome é <a href="https://github.com/RyanBasque">Ryan Basque!</a></h2>
 <p align="center">
 <p align="center">
 <a href="https://www.ryanbasque.com"><img src="https://img.shields.io/badge/-ryanbasque.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
