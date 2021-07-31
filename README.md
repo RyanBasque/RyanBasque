@@ -13,7 +13,7 @@
 
 - 👨🏽‍💻  Atualmente estou programando algo divertido :wink:.
 - 🌱  Atualmente procuro me aprofundar mais ainda em Javascript!
-- 💬  Pergunte-me sobre quaiquer coisas, ficarei feliz em ajuda-lá(ô)
+- 💬  Pergunte-me sobre quaisquer coisas, ficarei feliz em ajuda-lá(ô)
 - 📫  Você pode falar comigo por aqui: ryanbasquedev@gmail.com
 ***
 
