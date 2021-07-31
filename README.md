@@ -11,7 +11,7 @@
 
 **Falando sobre coisas pessoais:**
 
-- 👨🏽‍💻  Atualmente estou programando algo divertido :wink:.
+- 👨🏽‍💻  Procuro sempre programar algo diferente! :wink:
 - 🌱  Atualmente procuro me aprofundar mais ainda em Javascript!
 - 💬  Pergunte-me sobre quaisquer coisas, ficarei feliz em ajuda-lá(ô)
 - 📫  Você pode falar comigo por aqui: ryanbasquedev@gmail.com
